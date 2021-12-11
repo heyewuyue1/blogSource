@@ -7,6 +7,7 @@ layout: series
 [Sarlren's Blog](http://sarlren.top)
 [槐序七](https://mushroom323.github.io/)
 [pophirasawa](https://pophirasawa.pages.dev)
+[itdevwu](blog.itdevwu.com)
 
 <br><br><br><br><br>
 <script src="//unpkg.com/valine/dist/Valine.min.js"></script>

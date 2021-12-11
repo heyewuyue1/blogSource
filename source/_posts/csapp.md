@@ -51,3 +51,13 @@ IEEE浮点标准使用$V=(-1)^s\times M\times 2^E$来表示一个数
 
 ### 关于大端序和小端序
 ![](https://api2.mubu.com/v3/document_image/eadc3b36-ff28-44bf-8f15-7d5a96bf4243-15002533.jpg)
+<br><br><br><br><br>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<div id="vcomments"></div>
+<script>
+    new Valine({
+        el: '#vcomments',
+        appId: 'pYVxUdjGaaE4WkIo9yulsMpw-gzGzoHsz',
+        appKey: 'k5IXm5eqTCqoajlqYcc8F39c'
+    })
+</script>
