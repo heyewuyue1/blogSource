@@ -5,7 +5,7 @@ tags:
  - 马克思主义基本原理
 ---
 
-属于是一个速成的粗制滥造的复习笔记，没有任何全面性，有时间就多补充一点，先记一记这些东西让自己不挂科再说。————heye语
+属于是一个速成的粗制滥造的复习笔记，没有任何全面性，有时间就多补充一点，先记一记这些东西让自己不挂科再说。
 
 # 马克思主义基本原理
 
@@ -633,4 +633,15 @@ tags:
       2. 加剧了发展中国家资源短缺和环境恶化
       
       3. 一定程度上增加经济风险
-   
+         <br><br><br><br><br>
+         
+         <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+         
+         <div id="vcomments"></div>
+         <script>
+         new Valine({
+         el: '#vcomments',
+         appId: 'pYVxUdjGaaE4WkIo9yulsMpw-gzGzoHsz',
+         appKey: 'k5IXm5eqTCqoajlqYcc8F39c'
+         })
+         </script>
