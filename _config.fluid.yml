@@ -908,7 +908,7 @@ links:
       title: "Sarlren",
       intro: "Sarlren神",
       link: "http://sarlren.top",
-      avatar: "http://sarlren.top/uploads/pic.jpg"
+      avatar: "https://api2.mubu.com/v3/document_image/220f32ae-e507-4c55-a342-e8f345573487-15002533.jpg"
     }
     - {
       title: "槐序七",
