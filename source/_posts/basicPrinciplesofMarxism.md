@@ -561,7 +561,7 @@ comment: 'waline'
 
 \>上层建筑与社会意识形态
 
-![上层建筑与社会意识形态](https://wx1.sinaimg.cn/orj360/008azevPly1gxgz6aeftkj31ny0sugr2.jpg)
+![上层建筑与社会意识形态](https://api2.mubu.com/v3/document_image/4a1715d1-1a69-4f43-b0a5-0041f21d839d-15867716.jpg)
 
 #### 经济基础与上层建筑的矛盾运动及其规律
 
