@@ -445,7 +445,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: "落影，物归原主"
+    text: "此刻，寂灭之时！"
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
@@ -939,6 +939,12 @@ links:
       intro: "ziang神",
       link: "https://forksama.github.io/",
       avatar: "https://api2.mubu.com/v3/document_image/4594758d-454b-4180-868a-6414859a9523-15633121.jpg"
+    }
+    - {
+      title: "szhhh",
+      intro: "涵神",
+      link: "https://blog.szhhh.top/",
+      avatar: "https://api2.mubu.com/v3/document_image/fcea8848-8cc8-4403-99ef-768d18a7bc04-15002533.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
